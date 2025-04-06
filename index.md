@@ -8,7 +8,7 @@ I am a third-year undergraduate student (Class of 2022) majoring in ​​Artifi
 
 I am honored to be guided by [Prof. Liu Xingbo](https://www.sdjzu.edu.cn/jsjkx/info/1024/4415.htm) from [School of Computer Science and Technology](https://www.sdjzu.edu.cn/jsjkx/index.htm), Shandong Jianzhu University.
 
-You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curriculum_Vitae_CN.pdf).
+You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curriculum_Vitae_CN.pdf).📝
 
 [Email](mailto:202211102025@stu.sdjzu.edu.cn) / [Github](https://github.com/JEFfersusu) / [CSDN](https://blog.csdn.net/weixin_73994643?type=blog)
 
