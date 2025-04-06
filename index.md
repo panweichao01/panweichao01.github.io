@@ -29,7 +29,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 - **[Aug. 2024]** National second prize of the 2024 China College Student Computer Design Competition!
 - **[Aug. 2024]** National second prize of the 2024 Statistical Modeling Competition for College students!
 - **[Aug. 2024]** National third prize of the 2024 China Good Idea Competition
-- **[Jun. 2024]** National first prize of the 2024 Zhengda Cup Competition!
+- **[Jun. 2024]** National third prize of the 2024 Zhengda Cup Competition!
 - **[March. 2024]** The article on correcting factuality hallucination in LLM was accepted by 2024 IJCNN (CCF-C).
 - **[Dec. 2023]** National third prize of the 2024 Taidi Cup Competition!
 
