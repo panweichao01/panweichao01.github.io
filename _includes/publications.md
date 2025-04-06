@@ -15,6 +15,7 @@
     <div class="periodical"><em>Journal of Real-Time Image Processing <strong>(JRTIP)</strong>, 2025.</em></div>
     <div class="links">
 <!--       <a href="http://Me-Ditto.github.io/files/ijcai23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://link.springer.com/article/10.1007/s11554-025-01634-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
       <a href="https://github.com/JEFfersusu/RT-DSAFDet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/jrtip.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
@@ -37,7 +38,7 @@
     <div class="periodical"><em>Applied Sciences <strong>(AS)</strong>, 2025.</em></div>
     <div class="links">
 <!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <a href="[https://www.yangangwang.com/papers/iccv2023-grouprec/HUANG-GROUPREC-2023-07.html](https://www.researchgate.net/publication/388727641_Real-time_dynamic_scale-aware_fusion_detection_network_take_road_damage_detection_as_an_example#fullTextFileContent)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
+      <a href="https://www.mdpi.com/2076-3417/15/3/1470" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
       <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
