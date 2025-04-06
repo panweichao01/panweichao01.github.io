@@ -4,7 +4,7 @@ layout: homepage
 
 ## 📖About Me
 
-I am a third-year undergraduate student (Class of 2022) majoring in ​​Artificial Intelligence​​ at the the School of Computer Science and Technology of [Shandong Jianzhu University](https://www.sdjzu.edu.cn/). My research interests include computer vision and machine learning.
+I am a third-year undergraduate student (Class of 2022) majoring in ​​Artificial Intelligence​​ at the the School of Computer Science and Technology of [Shandong Jianzhu University](https://www.sdjzu.edu.cn/). My research interests include computer vision, machine learning, neural network architecture, and medical image processing.
 
 I am honored to be guided by [Prof. Liu Xingbo](https://www.sdjzu.edu.cn/jsjkx/info/1024/4415.htm) from [School of Computer Science and Technology](https://www.sdjzu.edu.cn/jsjkx/index.htm), Shandong Jianzhu University.
 
@@ -15,8 +15,10 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 🌟🌟🌟If you are interested in collaborating with me, don't hesitate to drop me an email!✉️
 ## 💻Research Interests
 
-- **Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis, and Medical imaging.
-- **Machine Learning:** Transfer learning, Deep clustering, and Applications.
+- **💡Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis.
+- **💡Machine Learning:** Transfer learning, Deep clustering, Semi-supervised learning, and Applications.
+- **💡Neural Network Architecture:** CNN, ViT (Transformer), ViM (Mamba), KAN, SNN.
+- **💡Medical image processing:** Disease diagnosis, Medical image segmentation.
 
 ## 🔥News
 
