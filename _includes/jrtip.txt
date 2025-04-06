@@ -1,0 +1,13 @@
+@article{Pan2025,
+  author = {Pan, Weichao and Wang, Xu and Huan, Wenqing},
+  title = {Real-time dynamic scale-aware fusion detection network: take road damage detection as an example},
+  journal = {Journal of Real-Time Image Processing},
+  volume = {22},
+  number = {2},
+  pages = {55},
+  year = {2025},
+  month = {February},
+  doi = {10.1007/s11554-025-01634-w},
+  url = {https://doi.org/10.1007/s11554-025-01634-w},
+  issn = {1861-8219}
+}
