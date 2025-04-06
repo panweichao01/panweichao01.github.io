@@ -12,7 +12,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 
 [Email](mailto:202211102025@stu.sdjzu.edu.cn) / [Github](https://github.com/JEFfersusu) / [CSDN](https://blog.csdn.net/weixin_73994643?type=blog)
 
-If you are interested in collaborating with me, don't hesitate to drop me an email!
+🌟🌟🌟If you are interested in collaborating with me, don't hesitate to drop me an email!
 ## Research Interests
 
 - **Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis, and Medical imaging.
