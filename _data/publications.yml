@@ -1,36 +1,36 @@
-# main:
+main:
 
-#   - title: Real-time dynamic scale-aware fusion detection network: take road damage detection as an example
-#     authors: <strong>Weichao Pan*</strong> (*Corresponding authors), Xu Wang, Wenqing Huan
-#     journal_short: JRTIP
-#     journal: Journal of Real-Time Image Processing <strong>(JRTIP)</strong>, 2025.
-#     page: https://www.researchgate.net/publication/388727641_Real-time_dynamic_scale-aware_fusion_detection_network_take_road_damage_detection_as_an_example#fullTextFileContent
-#     code: https://github.com/JEFfersusu/RT-DSAFDet
-#     bibtex: ./assets/jrtip.txt
-#     image: ./assets/jrtip.png
-#     notes: published
+  - title: Real-time dynamic scale-aware fusion detection network: take road damage detection as an example
+    authors: <strong>Weichao Pan*</strong> (*Corresponding authors), Xu Wang, Wenqing Huan
+    journal_short: JRTIP
+    journal: Journal of Real-Time Image Processing <strong>(JRTIP)</strong>, 2025.
+    page: https://www.researchgate.net/publication/388727641_Real-time_dynamic_scale-aware_fusion_detection_network_take_road_damage_detection_as_an_example#fullTextFileContent
+    code: https://github.com/JEFfersusu/RT-DSAFDet
+    bibtex: ./assets/jrtip.txt
+    image: ./assets/jrtip.png
+    notes: published
 
-#   - title: DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection
-#     authors: <strong>Weichao Pan</strong>, Jianmei Lei, Xu Wang, Chengze Lv, Gongrui Wang, Chong Li
-#     journal_short: AS
-#     journal: Applied Sciences <strong>(AS)</strong>, 2025.
-#     page: https://www.mdpi.com/2076-3417/15/3/1470
-#     bibtex: ./assets/as.txt
-#     image: ./assets/img/as.png
-#     notes: published
+  - title: DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection
+    authors: <strong>Weichao Pan</strong>, Jianmei Lei, Xu Wang, Chengze Lv, Gongrui Wang, Chong Li
+    journal_short: AS
+    journal: Applied Sciences <strong>(AS)</strong>, 2025.
+    page: https://www.mdpi.com/2076-3417/15/3/1470
+    bibtex: ./assets/as.txt
+    image: ./assets/img/as.png
+    notes: published
 
-#   - title: Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented
-#     authors: Jiaju Kang, <strong>Weichao Pan*</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu (*Corresponding authors)
-#     conference_short: IJCNN
-#     conference: 2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
-#     page: https://ieeexplore.ieee.org/document/10650208
-#     bibtex: ./assets/ijcnn.txt
-#     image: ./assets/ijcnn.png
-#     notes: published
+  - title: Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented
+    authors: Jiaju Kang, <strong>Weichao Pan*</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu (*Corresponding authors)
+    conference_short: IJCNN
+    conference: 2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
+    page: https://ieeexplore.ieee.org/document/10650208
+    bibtex: ./assets/ijcnn.txt
+    image: ./assets/ijcnn.png
+    notes: published
 
-#   - title: Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning
-#     authors: <strong>Weichao Pan*</strong>, Wenqing Huan, Xingbo Liu (*Corresponding authors), Xu Wang
-#     journal_short: RJDK
-#     journal: Software Guide <strong>(RJDK)</strong>, 2025.
-#     image: ./assets/sg.png
-#     notes: accepted
+  - title: Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning
+    authors: <strong>Weichao Pan*</strong>, Wenqing Huan, Xingbo Liu (*Corresponding authors), Xu Wang
+    journal_short: RJDK
+    journal: Software Guide <strong>(RJDK)</strong>, 2025.
+    image: ./assets/sg.png
+    notes: accepted
