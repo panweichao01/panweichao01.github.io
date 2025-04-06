@@ -15,7 +15,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 ## Research Interests
 
 - **Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis, and Medical imaging.
-- **Machine Learning:** transfer learning, Deep clustering, and Applications.
+- **Machine Learning:** Transfer learning, Deep clustering, and Applications.
 
 ## News
 
