@@ -19,7 +19,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 
 ## News
 
-- **[Feb. 2025]** National first prize of the 2025 lanqiao Cup Competition!
+- **[Feb. 2025]** National first prize of the 2025 Lanqiao Cup Competition!
 - **[Jan. 2025]** The article on Real-Time object detection was accepted by Journal of Real-Time Image Processing (CAAI-C, First author and corresponding author).
 - **[Jan. 2025]** The article on road disease detection was accepted by Applied Sciences (JCR Q1, First author).
 - **[Nov. 2024]** The article on Talent demand and ability model was accepted by Software Guide (CCF-T3, First author).
