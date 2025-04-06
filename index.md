@@ -18,7 +18,7 @@ If you are interested in collaborating with me, don't hesitate to drop me an ema
 - **Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis, and Medical imaging.
 - **Machine Learning:** Transfer learning, Deep clustering, and Applications.
 
-## News
+## 🔥News
 
 - **[Feb. 2025]** National first prize of the 2025 Lanqiao Cup Competition!
 - **[Jan. 2025]** The article on Real-Time object detection was accepted by Journal of Real-Time Image Processing (CAAI-C, First author and corresponding author).
