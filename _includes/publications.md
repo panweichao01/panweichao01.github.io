@@ -57,7 +57,7 @@
     <div class="author"> Jiaju Kang, <strong>Weichao Pan*</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu (*Corresponding authors)</div>
     <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
       <a href="assets/ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
