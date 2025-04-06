@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Real-time dynamic scale-aware fusion detection network: take road damage detection as an example
+    authors: <strong>Weichao Pan*</strong> (*Corresponding authors), Xu Wang, Wenqing Huan
+    conference_short: JRTIP
+    conference: Journal of Real-Time Image Processing <strong>(JRTIP)</strong>, 2025.
+    pdf: https://www.researchgate.net/publication/388727641_Real-time_dynamic_scale-aware_fusion_detection_network_take_road_damage_detection_as_an_example#fullTextFileContent
+    code: https://github.com/JEFfersusu/RT-DSAFDet
+    bibtex: ./assets/txt/jrtip.txt
+    image: ./assets/img/jrtip.png
+    notes: published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection
+    authors: <strong>Weichao Pan</strong>, Jianmei Lei, Xu Wang, Chengze Lv, Gongrui Wang, Chong Li
+    conference_short: AS
+    conference: Applied Sciences <strong>(AS)</strong>, 2025.
+    pdf: https://www.mdpi.com/2076-3417/15/3/1470
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/txt/as.txt
+    notes: published
+    image: ./assets/img/as.png
