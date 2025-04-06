@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## 📖About Me
 
 I am a third-year undergraduate student (Class of 2022) majoring in ​​Artificial Intelligence​​ at the the School of Computer Science and Technology of [Shandong Jianzhu University](https://www.sdjzu.edu.cn/). My research interests include computer vision and machine learning.
 
@@ -13,7 +13,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 [Email](mailto:202211102025@stu.sdjzu.edu.cn) / [Github](https://github.com/JEFfersusu) / [CSDN](https://blog.csdn.net/weixin_73994643?type=blog)
 
 🌟🌟🌟If you are interested in collaborating with me, don't hesitate to drop me an email!
-## Research Interests
+## 💻Research Interests
 
 - **Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis, and Medical imaging.
 - **Machine Learning:** Transfer learning, Deep clustering, and Applications.
