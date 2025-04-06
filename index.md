@@ -26,13 +26,9 @@ If you are interested in collaborating with me, don't hesitate to drop me an ema
 - **[Dec. 2024]** 2024 National Scholarship for Undergraduates!
 - **[Dec. 2024]** National second prize in 2024 Global Campus Artificial Intelligence Algorithm Elite Competition!
 - **[Nov. 2024]** The article on Talent demand and ability model was accepted by Software Guide (CCF-T3, First author).
-- **[Nov. 2024]** National third prize of the 2024 Digital Media Science and Technology Works and Creative Competition for College students!
 - **[Aug. 2024]** National second prize of the 2024 China College Student Computer Design Competition!
 - **[Aug. 2024]** National second prize of the 2024 Statistical Modeling Competition for College students!
-- **[Aug. 2024]** National third prize of the 2024 China Good Idea Competition
-- **[Jun. 2024]** National third prize of the 2024 Zhengda Cup Competition!
 - **[March. 2024]** The article on correcting factuality hallucination in LLM was accepted by 2024 IJCNN (CCF-C).
-- **[Dec. 2023]** National third prize of the 2024 Taidi Cup Competition!
 
 {% include_relative _includes/publications.md %}
 
