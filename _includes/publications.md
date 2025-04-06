@@ -35,7 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.mdpi.com/2076-3417/15/3/1470">DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection</a></div>
     <div class="author"> <strong>Weichao Pan</strong>, Jianmei Lei, Xu Wang, Chengze Lv, Gongrui Wang, Chong Li* (*Corresponding authors)</div>
-    <div class="periodical"><em>Applied Sciences <strong>(AS)</strong>, 2025.</em></div>
+    <div class="periodical"><em>Applied Sciences <strong>(AS)</strong>, 2025. </em></div>
     <div class="links">
 <!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://www.mdpi.com/2076-3417/15/3/1470" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
