@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10650208,
+  author={Kang, Jiaju and Pan, Weichao and Zhang, Tian and Wang, Ziming and Yang, Shuqin and Wang, Zhiqin and Wang, Jian and Niu, Xiaofei},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Knowledge engineering;Measurement;Accuracy;Large language models;Semantics;Knowledge graphs;Transforms},
+  doi={10.1109/IJCNN60899.2024.10650208}}

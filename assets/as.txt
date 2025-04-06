@@ -1,0 +1,12 @@
+@article{Pan2025,
+  author = {Pan, Weichao and Lei, Jianmei and Wang, Xu and Lv, Chengze and Wang, Gongrui and Li, Chong},
+  title = {DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection},
+  journal = {Applied Sciences},
+  volume = {15},
+  number = {3},
+  pages = {1470},
+  year = {2025},
+  doi = {10.3390/app15031470},
+  url = {https://doi.org/10.3390/app15031470},
+  issn = {2076-3417}
+}
