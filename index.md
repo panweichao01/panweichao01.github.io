@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate student (Class of 2022) in the School of Computer Science and Technology of [Shandong Jianzhu University](https://www.sdjzu.edu.cn/). My research interests include computer vision and machine learning.
+I am a third-year undergraduate student (Class of 2022) majoring in ​​Artificial Intelligence​​ at the the School of Computer Science and Technology of [Shandong Jianzhu University](https://www.sdjzu.edu.cn/). My research interests include computer vision and machine learning.
 
 I am honored to be guided by [Prof. Liu Xingbo](https://www.sdjzu.edu.cn/jsjkx/info/1024/4415.htm) from [School of Computer Science and Technology](https://www.sdjzu.edu.cn/jsjkx/index.htm), Shandong Jianzhu University.
 
