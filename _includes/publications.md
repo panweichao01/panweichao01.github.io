@@ -53,8 +53,8 @@
     <abbr class="badge">IJCNN</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650208">Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning</a></div>
-    <div class="author"> Jiaju Kang, <strong>Weichao Pan*</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu (*Corresponding authors)</div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650208">Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented</a></div>
+    <div class="author"> Jiaju Kang, <strong>Weichao Pan</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu* (*Corresponding authors)</div>
     <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
@@ -73,7 +73,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.rjdk.org.cn/en/home/">Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning</a></div>
-    <div class="author"> Weichao Pan*</strong>, Wenqing Huan, Xingbo Liu (*Corresponding authors), Xu Wang</div>
+    <div class="author"> Weichao Pan</strong>, Wenqing Huan, Xingbo Liu* (*Corresponding authors), Xu Wang</div>
     <div class="periodical"><em>Software Guide <strong>(RJDK)</strong>, 2025.</em></div>
 <!--     <div class="links"> -->
 <!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
