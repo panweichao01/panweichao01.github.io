@@ -53,17 +53,37 @@
     <abbr class="badge">IJCNN</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Neural_MoCon_Neural_Motion_Control_for_Physically_Plausible_Human_Motion_CVPR_2022_paper.html">Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture</a></div>
-    <div class="author"> Buzhen Huang, Liang Pan, Yuan Yang, <strong>Jingyi Ju</strong> and Yangang Wang</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR)</strong>, 2022.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650208">Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning</a></div>
+    <div class="author"> Jiaju Kang, <strong>Weichao Pan*</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu (*Corresponding authors)</div>
+    <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Neural_MoCon_Neural_Motion_Control_for_Physically_Plausible_Human_Motion_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.yangangwang.com/papers/HBZ-NM-2022-03.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Neural_MoCon_Neural_Motion_Control_for_Physically_Plausible_Human_Motion_CVPR_2022_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+      <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="assets/ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/rjdk.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RJDK</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.rjdk.org.cn/en/home/">Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning</a></div>
+    <div class="author"> Weichao Pan*</strong>, Wenqing Huan, Xingbo Liu (*Corresponding authors), Xu Wang</div>
+    <div class="periodical"><em>Software Guide <strong>(RJDK)</strong>, 2025.</em></div>
+<!--     <div class="links"> -->
+<!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+<!--       <a href="https://www.mdpi.com/2076-3417/15/3/1470" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
+      <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a> -->
+<!--     </div> -->
+  </div>
+</div>
+</li>
+
 
 <br>
 
