@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="📝publications">
+## 🔍Services
 <ol class="bibliography">
 
 <li>
