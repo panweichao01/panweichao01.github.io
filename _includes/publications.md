@@ -77,7 +77,7 @@
     <div class="periodical"><em>Software Guide <strong>(RJDK)</strong>, 2025.</em></div>
     <div class="links">
        <a href="https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
-      <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a> 
+      <a href="assets/rjdk.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a> 
      </div> 
   </div>
 </div>
