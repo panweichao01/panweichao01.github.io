@@ -72,14 +72,13 @@
     <abbr class="badge">RJDK</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.rjdk.org.cn/en/home/">Construction of Digital Talent Demand and Ability Model in Beijing-Tianjin-Hebei Financial Field Based on Recruitment Big Data and Machine Learning</a></div>
+    <div class="title"><a href="https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973//">Construction of Digital Talent Demand and Ability Model Based on Recruitment Big Data and Machine Learning</a></div>
     <div class="author"> <strong>Weichao Pan</strong>, Wenqing Huan, Xingbo Liu* (*Corresponding authors), Xu Wang</div>
     <div class="periodical"><em>Software Guide <strong>(RJDK)</strong>, 2025.</em></div>
-<!--     <div class="links"> -->
-<!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-<!--       <a href="https://www.mdpi.com/2076-3417/15/3/1470" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
-      <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a> -->
-<!--     </div> -->
+    <div class="links">
+       <a href="https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
+      <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a> 
+     </div> 
   </div>
 </div>
 </li>
