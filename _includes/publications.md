@@ -17,7 +17,7 @@
 <!--       <a href="http://Me-Ditto.github.io/files/ijcai23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://link.springer.com/article/10.1007/s11554-025-01634-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
       <a href="https://github.com/JEFfersusu/RT-DSAFDet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="jrtip.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+      <a href="assets/jrtip.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@
     <div class="links">
 <!--       <a href="https://arxiv.org/pdf/2308.15844.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://www.mdpi.com/2076-3417/15/3/1470" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
-      <a href="as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+      <a href="assets/as.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@
     <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      <a href="ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+      <a href="assets/ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
     </div>
   </div>
 </div>
