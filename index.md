@@ -44,3 +44,13 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+<!-- 不蒜子统计 -->
+<div style="margin-top: 20px; font-size: 0.9em; color: gray;">
+  <span id="busuanzi_container_site_pv" style="margin-right: 10px;">
+      本站访问量：<span id="busuanzi_value_site_pv"></span>次
+  </span>
+  <span id="busuanzi_container_site_uv">
+      本站访客数：<span id="busuanzi_value_site_uv"></span>人
+  </span>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</div>
