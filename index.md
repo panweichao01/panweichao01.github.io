@@ -25,7 +25,8 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 - 📝One paper on medical image processing and one paper on Cross-domain Real-time Defect Detection ard submitted to ECAI 2025 (CCF-B).
 - 📝One paper on Cross-domain Real-Time Obstacle Detection is submitted to T-ITS (CCF-B).
 - 📝One paper on ultra-lightweight object detection and one paper on efficient fault diagnosis are submitted to BMVC 2025 (CCF-C).
-- 📝Two paper on hidden danger or defect detection are submitted to SMC 2025 (CCF-C).
+- 📝Two papers on hidden danger or defect detection are submitted to SMC 2025 (CCF-C).
+- 📝Three papers on medical image processing are planned for AAAI (CCF-A) and BIBM (CCF-B), and two papers on general object detection and defect detection are planned for NN (CCF-B) and TIM.
 
 ## 🔥News
 
