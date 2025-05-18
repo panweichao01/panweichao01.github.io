@@ -20,7 +20,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 - **💡Neural Network Architecture:** CNN, ViT (Transformer), ViM (Mamba), KAN, SNN.
 - **💡Medical image processing:** Disease diagnosis, Medical image segmentation.
 
-## 🔍Recent Work
+## 📌Recent Work
 
 - 📝One paper on medical image processing and one paper on Cross-domain Real-time Defect Detection ard submitted to ECAI 2025 (CCF-B).
 - 📝One paper on Cross-domain Real-Time Obstacle Detection is submitted to T-ITS (CCF-B).
