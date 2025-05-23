@@ -10,11 +10,10 @@
     <abbr class="badge">JRTIP</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/388727641_Real-time_dynamic_scale-aware_fusion_detection_network_take_road_damage_detection_as_an_example#fullTextFileContent">Real-time dynamic scale-aware fusion detection network: take road damage detection as an example</a></div>
+    <div class="title"><a href="https://link.springer.com/article/10.1007/s11554-025-01634-w">Real-time dynamic scale-aware fusion detection network: take road damage detection as an example</a></div>
     <div class="author"> <strong>Weichao Pan*</strong> (*Corresponding authors), Xu Wang, Wenqing Huan</div>
     <div class="periodical"><em>Journal of Real-Time Image Processing <strong>(JRTIP)</strong>, 2025.</em></div>
     <div class="links">
-<!--       <a href="http://Me-Ditto.github.io/files/ijcai23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://link.springer.com/article/10.1007/s11554-025-01634-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> Page</a>
       <a href="https://github.com/JEFfersusu/RT-DSAFDet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/jrtip.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
