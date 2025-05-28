@@ -48,6 +48,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/firead.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICIC</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.20884">YOLO-FireAD: Efficient Fire Detection via Attention-Guided Inverted Residual Learning and Dual-Pooling Feature Preservation</a></div>
+    <div class="author"> <strong>Weichao Pan</strong>, Bohan Xu, Xu Wang, Chengze Lv, Shuoyang Wang, Zhenke Duan* (*Corresponding authors)</div>
+    <div class="periodical"><em> 2025 International Conference on Intelligent Computing <strong>(ICIC)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2505.20884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://github.com/JEFfersusu/YOLO-FireAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/firead.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/ijcnn.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IJCNN</abbr>
   </div>
