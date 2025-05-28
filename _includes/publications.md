@@ -6,6 +6,24 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/ijcnn.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IJCNN</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650208">Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented</a></div>
+    <div class="author"> Jiaju Kang, <strong>Weichao Pan</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu* (*Corresponding authors)</div>
+    <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="assets/ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/jrtip.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JRTIP</abbr>
   </div>
@@ -21,9 +39,6 @@
   </div>
 </div>
 </li>
-
-
-
 
 <li>
 <div class="pub-row">
@@ -44,7 +59,6 @@
 </div>
 </li>
 
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -54,7 +68,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2505.20884">YOLO-FireAD: Efficient Fire Detection via Attention-Guided Inverted Residual Learning and Dual-Pooling Feature Preservation</a></div>
     <div class="author"> <strong>Weichao Pan</strong>, Bohan Xu, Xu Wang, Chengze Lv, Shuoyang Wang, Zhenke Duan* (*Corresponding authors)</div>
-    <div class="periodical"><em> 2025 International Conference on Intelligent Computing <strong>(ICIC)</strong>, 2024.</em></div>
+    <div class="periodical"><em> 2025 International Conference on Intelligent Computing <strong>(ICIC)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2505.20884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
       <a href="https://github.com/JEFfersusu/YOLO-FireAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -63,26 +77,6 @@
   </div>
 </div>
 </li>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/ijcnn.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IJCNN</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650208">Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented</a></div>
-    <div class="author"> Jiaju Kang, <strong>Weichao Pan</strong>, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu* (*Corresponding authors)</div>
-    <div class="periodical"><em>2024 International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://https://ieeexplore.ieee.org/document/10650208" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      <a href="assets/ijcnn.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Bibtex</a>
-    </div>
-  </div>
-</div>
-</li>
-
 
 <li>
 <div class="pub-row">
