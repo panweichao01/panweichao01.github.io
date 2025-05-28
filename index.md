@@ -18,7 +18,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 - **💡Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis.
 - **💡Machine Learning:** Transfer learning, Deep clustering, Semi-supervised learning, and Applications.
 - **💡Neural Network Architecture:** CNN, ViT (Transformer), ViM (Mamba), KAN, SNN.
-- **💡Medical image processing:** Disease diagnosis, Medical image segmentation.
+- **💡Medical Image Processing:** Disease diagnosis, Medical image segmentation.
 
 ## 📌Recent Work
 
