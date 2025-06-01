@@ -13,12 +13,13 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 [Email](mailto:202211102025@stu.sdjzu.edu.cn) / [Github](https://github.com/JEFfersusu) / [CSDN](https://blog.csdn.net/weixin_73994643?type=blog)
 
 🌟🌟🌟If you are interested in collaborating with me, don't hesitate to drop me an email!✉️
-## 💻Research Interests
+## 💻Research Interests and Learning Exploration
 
 - **💡Computer Vision:** Efficient image classification, Efficient object detection, Efficient fault diagnosis.
 - **💡Machine Learning:** Transfer learning, Deep clustering, Semi-supervised learning, and Applications.
 - **💡Neural Network Architecture:** CNN, ViT (Transformer), ViM (Mamba), KAN, SNN.
 - **💡Medical Image Processing:** Disease diagnosis, Medical image segmentation.
+- **💡Embodied Artificial Intelligence.**
 
 ## 📌Recent Work
 
