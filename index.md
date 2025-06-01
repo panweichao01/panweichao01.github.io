@@ -19,7 +19,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 - **💡Machine Learning:** Transfer learning, Deep clustering, Semi-supervised learning, and Applications.
 - **💡Neural Network Architecture:** CNN, ViT (Transformer), ViM (Mamba), KAN, SNN.
 - **💡Medical Image Processing:** Disease diagnosis, Medical image segmentation.
-- **💡Embodied Artificial Intelligence and AI4Science.**
+- **💡(Exploring and Building) Embodied Artificial Intelligence and AI4Science.**
 
 ## 📌Recent Work
 
