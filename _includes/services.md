@@ -12,4 +12,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
+  <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
 </ul>
