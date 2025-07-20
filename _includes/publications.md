@@ -85,7 +85,7 @@
     <abbr class="badge">RJDK</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973//">Construction of Digital Talent Demand and Ability Model Based on Recruitment Big Data and Machine Learning</a></div>
+    <div class="title"><a href="https://www.rjdk.org.cn/zh/article/doi/10.11907/rjdk.241973///">Construction of Digital Talent Demand and Ability Model Based on Recruitment Big Data and Machine Learning</a></div>
     <div class="author"> <strong>Weichao Pan</strong>, Wenqing Huan, Xingbo Liu* (*Corresponding authors), Xu Wang</div>
     <div class="periodical"><em>Software Guide <strong>(RJDK)</strong>, 2025.</em></div>
     <div class="links">
