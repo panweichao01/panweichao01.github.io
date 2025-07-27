@@ -30,9 +30,9 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/Curr
 
 ## 🔥News
 
-- **[Jul. 2025]** 🎉The article by 2025 36st British Machine Vision Conference (BMVC 2025, CORE-A, CCF-C, First author)!
+- **[Jul. 2025]** 🎉The article was accepted by 2025 36st British Machine Vision Conference (BMVC 2025, CORE-A, CCF-C, First author)!
 - **[Jul. 2025]** 🥇🥈Provincial gold and silver prizes in the 2025 China International College Students' Innovation Competition!
-- **[Apr. 2025]** 🎉🎉Two article were accept by 2025 21st International Conference on Intelligent Computing (ICIC 2025, CCF-C, First author)！
+- **[Apr. 2025]** 🎉🎉Two article were accepted by 2025 21st International Conference on Intelligent Computing (ICIC 2025, CCF-C, First author)！
 - **[Feb. 2025]** 🥇National first prize of the 2025 Lanqiao Cup Competition!
 - **[Jan. 2025]** 🎉The article on Real-Time object detection was accepted by Journal of Real-Time Image Processing (CAAI-C, First author and corresponding author)！
 - **[Jan. 2025]** 🎉The article on road disease detection was accepted by Applied Sciences (JCR Q1, First author)!
