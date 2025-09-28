@@ -23,10 +23,7 @@ You can find my Chinese CV here: [Weichao Pan's Curriculum Vitae](../assets/CV92
 
 ## 📌Recent Work
 
-- 📝One paper on cross-domain real-time obstacle detection is submitted to T-ITS (CCF-B).
-- 📝Three papers on medical image processing are submitted to BIBM (CCF-B).
-- 📝Two papers on hidden danger or defect detection are submitted to SVIP (CAAI-C).
-- 📝**Current work in progress:** One paper on medical image diagnosis, one on object detection, and one on acoustic signal processing are planned for ICASSP (CCF-B), and two papers on general object detection and defect detection are planned for NN (CCF-B) and TIM.
+For details, please refer to my Chinese CV.
 
 ## 🔥News
 
