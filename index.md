@@ -27,7 +27,7 @@ For details, please refer to my Chinese CV.
 
 ## 🔥News
 
-- **[Sep. 2025]** 🎉The article was accepted by _Journal of Real-Time Image Processing_ (JCR Q2, Corresponding author), Congratulations to Lu Chengze!
+- **[Sep. 2025]** 🎉The article was accepted by _Journal of Real-Time Image Processing_ (JCR Q2, Corresponding author), Congratulations to Lv Chengze!
 - **[Sep. 2025]** 🎉The article was accepted by _Measurement Science and Technology_ (JCR Q1, First author)!
 - **[Jul. 2025]** 🎉The article was accepted by 2025 _36st British Machine Vision Conference_ (BMVC 2025, CORE-A, CCF-C, First author)!
 - **[Jul. 2025]** 🥇🥈Provincial gold and silver prizes in the 2025 China International College Students' Innovation Competition!
