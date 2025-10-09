@@ -47,9 +47,6 @@ For details, please refer to my Chinese CV.
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1cGAQCHReapg33-Oju_AONenV3MJMgmqj3ce6g__AIE&cl=ffffff&w=a"></script>
-
-<!-- 不蒜子统计 -->
 <div style="margin-top: 20px; font-size: 0.9em; color: gray;">
   <span id="busuanzi_container_site_pv" style="margin-right: 10px;">
       本站访问量：<span id="busuanzi_value_site_pv"></span>次
@@ -59,3 +56,12 @@ For details, please refer to my Chinese CV.
   </span>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </div>
+
+<div style="margin-top: 30px; text-align: center;">
+  <h3>🌍Visitor Map</h3>
+  <script type="text/javascript" id="mapmyvisitors"
+          src="//mapmyvisitors.com/map.js?d=1cGAQCHReapg33-Oju_AONenV3MJMgmqj3ce6g__AIE&cl=ffffff&w=a">
+  </script>
+</div>
+
+
