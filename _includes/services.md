@@ -12,6 +12,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SIVP)</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
 </ul>
