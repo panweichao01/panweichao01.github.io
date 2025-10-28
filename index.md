@@ -27,6 +27,7 @@ For details, please refer to my Chinese CV.
 
 ## 🔥News
 
+- **[Oct. 2025]** 🎉The article was accepted by _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (CCF-B)!
 - **[Oct. 2025]** 🎉The article was accepted by _Measurement Science and Technology_ (JCR Q1, First author)!
 - **[Sep. 2025]** 🎉The article was accepted by _Journal of Real-Time Image Processing_ (JCR Q2, Corresponding author), Congratulations to Lv Chengze!
 - **[Sep. 2025]** 🎉The article was accepted by _Measurement Science and Technology_ (JCR Q1, First author)!
