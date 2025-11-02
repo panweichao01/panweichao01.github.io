@@ -27,7 +27,7 @@ For details, please refer to my Chinese CV.
 
 ## 🔥News
 
-- **[Oct. 2025]** 🎉The article was accepted by _Signal, Image and Video Processing_ (JCR Q3, CAAI-C, First author  and corresponding author))!
+- **[Nov. 2025]** 🎉The article was accepted by _Signal, Image and Video Processing_ (JCR Q3, CAAI-C, First author  and corresponding author))!
 - **[Oct. 2025]** 🎉The article was accepted by _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_ (CCF-B)!
 - **[Oct. 2025]** 🎉The article was accepted by _Measurement Science and Technology_ (JCR Q1, First author and corresponding author)!
 - **[Sep. 2025]** 🎉The article was accepted by _Journal of Real-Time Image Processing_ (JCR Q2, CAAI-C, Corresponding author), Congratulations to Lv Chengze!
