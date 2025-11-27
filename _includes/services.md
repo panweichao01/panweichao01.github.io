@@ -8,9 +8,11 @@
   <li><a href="https://bmvc2025.bmva.org/"><autocolor>British Machine Vision Conference (BMVC) 36th</autocolor></a></li>
 </ul>
 
+
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing & Management (IPM)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SIVP)</autocolor></a></li>
