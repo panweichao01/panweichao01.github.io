@@ -16,6 +16,7 @@
 
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
 
+  <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10586"><autocolor>Cluster Computing</autocolor></a></li>
 
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (SR)</autocolor></a></li>
