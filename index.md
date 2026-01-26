@@ -27,7 +27,7 @@ For details, please refer to my Chinese CV.
 
 ## 🔥News
 
-- **[Jan. 2026]** 🎉The article was accepted by _Optics and Laser Technology_(JCR Q1, CAS TOP, First author)!
+- **[Jan. 2026]** 🎉The article was accepted by _Optics and Laser Technology_ (JCR Q1, CAS TOP, First author)!
 - **[Jan. 2026]** 🎉The article was accepted by 2026 _51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_(CCF-B, First author)!
 - **[Dec. 2025]** 🎉The article was accepted by _Journal of Imaging Informatics in Medicine_ (JCR Q1, First author)!
 - **[Dec. 2025]** 🎉The article was accepted by _Measurement Science and Technology_ (JCR Q1, Corresponding author)!
