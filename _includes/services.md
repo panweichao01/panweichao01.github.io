@@ -23,6 +23,7 @@
 
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (SR)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/138"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SIVP)</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
