@@ -19,9 +19,7 @@
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
-
-  <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
-
+  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition-letters"><autocolor>Pattern Recognition Letters (PRL)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97"><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/0957-0233"><autocolor>Measurement Science and Technology (MST)</autocolor></a></li>
@@ -30,6 +28,7 @@
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/138"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SIVP)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/42452"><autocolor>Discover Applied Sciences</autocolor></a></li>
