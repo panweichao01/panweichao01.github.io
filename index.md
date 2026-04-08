@@ -27,6 +27,7 @@ For details, please refer to my Chinese CV.
 
 ## 🔥News
 
+- **[Apr. 2025]** 🎉The article was accepted by _Signal, Image and Video Processing_ (JCR Q3, CAAI-C, Corresponding author))!
 - **[Mar. 2026]** 🎉The article was accepted by _Pattern Recognition Letters_ (JCR Q2, CAAI-B, CCF-C, First author and corresponding author)!
 - **[Jan. 2026]** 🎉The article was accepted by _Optics and Laser Technology_ (JCR Q1, CAS TOP, First author)!
 - **[Jan. 2026]** 🎉The article was accepted by 2026 _51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_(CCF-B, First author)!
