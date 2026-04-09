@@ -27,10 +27,10 @@
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (SR)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/138"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SIVP)</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/13042"><autocolor>International Journal of Machine Learning and Cybernetics</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SiIVP)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/13042"><autocolor>International Journal of Machine Learning and Cybernetics (IJMLC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11220"><autocolor>Sensing and Imaging</autocolor></a></li>
-  <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express</autocolor></a></li>
+  <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express (ERX)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
