@@ -51,7 +51,7 @@ For details, please refer to my Chinese CV.
 - **[Aug. 2024]** 🥈National second prize of the 2024 Statistical Modeling Competition for College students!
 - **[March. 2024]** 🎉The article on correcting factuality hallucination in LLM was accepted by 2024 _IJCNN_ (CCF-C)!
 
-{% include_relative _includes/publications.md %}
+<!--{% include_relative _includes/publications.md %}-->
 
 {% include_relative _includes/services.md %}
 
