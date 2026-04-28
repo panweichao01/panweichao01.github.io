@@ -34,6 +34,7 @@
   <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express (ERX)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/artificial-intelligence"><autocolor>Frontiers in Artificial Intelligence</autocolor></a></li>
+  <li><a href="https://www.frontiersin.org/journals/marine-science"><autocolor>Frontiers in Marine Science</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44163"><autocolor>Discover Artificial Intelligence</autocolor></a></li>
