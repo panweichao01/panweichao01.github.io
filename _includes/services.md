@@ -29,6 +29,7 @@
   <li><a href="https://link.springer.com/journal/138"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SiIVP)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/13042"><autocolor>International Journal of Machine Learning and Cybernetics (IJMLC)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/44196"><autocolor>International Journal of Computational Intelligence Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11220"><autocolor>Sensing and Imaging</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express (ERX)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
