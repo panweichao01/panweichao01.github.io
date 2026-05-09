@@ -25,6 +25,7 @@
   <li><a href="https://iopscience.iop.org/journal/0957-0233"><autocolor>Measurement Science and Technology (MST)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10586"><autocolor>Cluster Computing</autocolor></a></li>
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (SR)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/530"><autocolor>Multimedia Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/138"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11760"><autocolor>Signal, Image and Video Processing (SiIVP)</autocolor></a></li>
