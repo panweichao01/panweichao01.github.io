@@ -17,6 +17,7 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"><autocolor>IEEE Transactions on Industrial Informatics (TII)</autocolor></a></li>
 
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence (EAAI)</autocolor></a></li>  
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition-letters"><autocolor>Pattern Recognition Letters (PRL)</autocolor></a></li>
